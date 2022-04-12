@@ -26,45 +26,29 @@ Species prey preference of the corallivorous snail, _Coralliophila abbreviata_
 
 ### Mote Marine Laboratory and Aquarium
 
-Undergraduate Research Intern
-06/2021-08/2021
-Sarasota, FL
--	Worked with coral disease data using R and designed a corallivorous snail prey preference experiment and presented my findings.
--	Aquatic lab maintenance: coral husbandry, water quality testing,
--	DNA extractions, PCR, gel electrophoresis
+Student Pathways Intern – Mathematics and Statistics
+Aberdeen Testing Center
+Aberdeen Proving Ground, MD
+40 hrs/week, May 2019 – May 2021
+- Modified a tank animation program in MATLAB to include approximations of angular velocity of the
+hydraulic bridge launcher system on a JAB tank. This program used test data to produce an animation
+of the deployment of a bridge from the tank.
+- Created a MATLAB application that processes automotive testing data and generates custom graphs
+and excel files based on an engineer’s specifications. Included a GUI that allowed for variable SQL
+scripting to download and save project data from a network drive.
 
----
-### Atlas SCST 	
+- Analyzed and generated statistics on test failures for several projects, which included formal write-
+ups for company reports.
 
-Office Assistant / Assistant Geophysicist
-05/2017–Present
-San Diego, CA
--	Sanitized work environments as part of the COVID-19 response, improved workplace safety, recycled bulk scrap, and assisted as a geophysical surveyor.
-
----
-
-### UC Berkeley, Blackman Lab
-
-Undergraduate Volunteer Assistant
-05/2019– 08/2019
-Berkeley, CA
--	Responsible for preparing, germinating, and planting sunflower samples, as well as setting up the data collecting equipment during the investigations of the circadian rhythm and heliotropism.
+- Worked extensively on a quantitative comparison between two tests for a large project. This entailed
+generating google earth files in KML using MATLAB. The code written would be used to showcase
+other projects test data in a new format.
+- Worked as a data analyst on an autonomous convoy system. Developed a script to detect breakage in
+the convoy and record failures. Graphs were produced to recreate the path of the vehicles and
+highlight errors in the self-driving.
 
 ---
 
-### Surfin’ Fire // Surf Camps USA
-Instructor
-06/2015-08/2018
-Carlsbad, California
--	Taught people ages 5 and up how to surf and ensured student safety.
-
----
-
-### University of California, Moore’s Cancer Center
-Call Pool Volunteer
-09/2016-06/2017
-La Jolla, CA
--	Assisted medical staff with patient relations, and guiding patients through the facilities to their appointments.
 
 
 
