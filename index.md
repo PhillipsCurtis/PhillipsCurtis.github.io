@@ -1,6 +1,6 @@
 # Portfolio
 
-Howdy! My name is Curtis PHillips, and I have recently graduated from Towson. This website showcases both the biology and the computer science projects I have worked on during my education, and will be updated with any personal projects I start moving forward. Some projects cannot be shown in some capacity in order to hide potential solutions for future classes.
+Howdy! My name is Curtis Phillips, and I have recently graduated from Towson. This website showcases both the biology and the computer science projects I have worked on during my education, and will be updated with any personal projects I start moving forward. Some projects cannot be shown in some capacity in order to hide potential solutions for future classes.
 
 ---
 
@@ -26,8 +26,7 @@ Species prey preference of the corallivorous snail, _Coralliophila abbreviata_
 
 ### Mote Marine Laboratory and Aquarium
 
-Student Pathways Intern – Mathematics and Statistics
-Aberdeen Testing Center
+Supply Systems Analyst 
 Aberdeen Proving Ground, MD
 40 hrs/week, May 2019 – May 2021
 - Modified a tank animation program in MATLAB to include approximations of angular velocity of the
